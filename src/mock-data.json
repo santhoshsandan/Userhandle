@@ -1,0 +1,37 @@
+[
+    {
+      "id": 1,
+      "fullName": "Jenny Chan",
+      "address": "User",
+      "phoneNumber": "9876547898",
+      "email": "jenny.chan@email.com"
+    },
+    {
+      "id": 2,
+      "fullName": "Jessica warren",
+      "address": "Coardinator",
+      "phoneNumber": "9553660845",
+      "email": "jessica.warren@email.com"
+    },
+    {
+      "id": 3,
+      "fullName": "Tony Frank",
+      "address": "User",
+      "phoneNumber": "7654987444",
+      "email": "tony.frank@email.com"
+    },
+    {
+      "id": 4,
+      "fullName": "Jeremy Clark",
+      "address": "Lead",
+      "phoneNumber": "9542707945",
+      "email": "jeremy.clark@email.com"
+    },
+    {
+      "id": 5,
+      "fullName": "Raymond Edwards",
+      "address": "User",
+      "phoneNumber": "9581729079",
+      "email": "raymon.edwards@email.com"
+    }
+  ]
